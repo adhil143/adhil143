@@ -49,24 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Projects Highlight
-
-### 🧾 Expense Tracker
-- Built using **HTML, CSS, JavaScript, Python**
-- Clean UI with real-time expense tracking
-
-### 🎓 Student Management System
-- Features: Login system, analytics, attendance tracking
-- Focus on **data visualization & usability**
-
-### 🤖 AI Image Generation Project
-- Integrated free API for image generation
-- Explored real-world AI implementation
-
----
-
 ## 🌱 Currently Learning
 
 - ⚡ Advanced Full Stack Development  
@@ -86,9 +68,9 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin  
+- LinkedIn: www.linkedin.com/in/adhil11  
 - Portfolio: https://your-portfolio.com  
-- Email: your-email@gmail.com  
+- Email: adhilshroff@gmail.com 
 
 ---
 
@@ -98,10 +80,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Optional)
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
