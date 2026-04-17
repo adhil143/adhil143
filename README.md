@@ -1,85 +1,120 @@
 <h1 align="center">Hi 👋, I'm Adhil</h1>
-<h3 align="center">🚀 Building code today, scaling businesses tomorrow</h3>
+<h3 align="center">🚀 AI/ML Engineer • Software Developer • Building intelligent systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20in%20the%20making;Building%20LLM%20%2B%20RAG%20systems;Turning%20ideas%20into%20real%20products&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/adhil11">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:adhilshroff@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎓 Final Year **Computer Science Engineering Student**
-- 💡 Passionate about **building real-world tech products**
-- 🔭 Currently focused on **Full Stack Development & AI-based projects**
-- 🚀 Dream: Building a **₹100 Crore+ business before 30**
-- ⚡ I believe in: *"Execution beats ideas. Always."*
+* 🎓 Final Year **Computer Science Engineering Student**
+* 🤖 Focused on **AI/ML, LLMs, and real-world automation**
+* 🧩 Building systems using **RAG + LLM + APIs**
+* ⚡ Strong belief in **learning by building**
+* 🚀 Goal: Build scalable AI-powered products
 
 ---
 
-## 🚀 Skills & Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+### 🧠 AI / ML
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge\&logo=python)
+![Ollama](https://img.shields.io/badge/Ollama-111?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111?style=for-the-badge)
 
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
+### ⚙️ Backend & Tools
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge\&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github)
+
+### 🌐 Basics
+
+![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge\&logo=css3)
+
+---
+
+## 🚀 Featured Project
+
+### 🧠 AI Event Assistant
+
+> Context-aware AI system that sends personalized reminders and gift suggestions
+
+**💡 Key Features:**
+
+* 🤖 LLM-powered responses using Ollama
+* 🧠 RAG-based memory (ChromaDB)
+* 📩 Telegram bot automation
+* ⏰ Daily scheduled execution
+
+---
+
+## 🧠 System Architecture
+
+```id="arch1"
+User Data (CSV)
+      ↓
+RAG Memory (ChromaDB)
+      ↓
+LLM (Ollama)
+      ↓
+Response Generation
+      ↓
+Telegram Notification
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhil143&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhil143&theme=tokyonight" />
 </p>
+
+---
 
 ## 🌱 Currently Learning
 
-- ⚡ Advanced Full Stack Development  
-- 🤖 AI & Machine Learning Integration  
-- 🏗️ System Design Basics  
+* 🧠 Advanced LLM Applications
+* ⚙️ Backend System Design
+* 🔍 Scalable AI Architectures
 
 ---
 
 ## 🎯 Goals
 
-- 💼 Get placed as a **Software Developer**
-- 🚀 Build scalable tech products
-- 💰 Achieve **₹100 Crore net worth before 30**
-- 🌍 Create impactful solutions used by thousands
+* 💼 AI Engineer / Software Developer role
+* 🚀 Build impactful AI products
+* 🌍 Solve real-world problems using technology
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/adhil11  
-- Portfolio: https://your-portfolio.com  
-- Email: adhilshroff@gmail.com 
+* LinkedIn: https://linkedin.com/in/adhil11
+* Email: [adhilshroff@gmail.com](mailto:adhilshroff@gmail.com)
 
 ---
 
 ## 🧠 Developer Philosophy
 
-> "Start before you're ready. Learn while building. Scale what works."
+> "Build first. Optimize later. Scale what works."
 
 ---
 
-
-
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *Check out my projects — they reflect how I think and build.*
