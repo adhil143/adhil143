@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adhil</h1>
-<h3 align="center">🚀 AI/ML Engineer • Software Developer • Building intelligent systems</h3>
+
+<h3 align="center">🚀 AI Engineer • Full-Stack Developer • Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20in%20the%20making;Building%20LLM%20%2B%20RAG%20systems;Turning%20ideas%20into%20real%20products&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;LLMs+%7C+RAG+%7C+Django+%7C+PostgreSQL;Creating+Intelligent+Systems;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,103 +19,111 @@
 
 ## 🧠 About Me
 
-* 🎓 Final Year **Computer Science Engineering Student**
-* 🤖 Focused on **AI/ML, LLMs, and real-world automation**
-* 🧩 Building systems using **RAG + LLM + APIs**
-* ⚡ Strong belief in **learning by building**
-* 🚀 Goal: Build scalable AI-powered products
+- 🎓 Final Year **Computer Science Engineering Student**
+- 🤖 Focused on **Artificial Intelligence, LLMs, and Intelligent Automation**
+- 🧩 Building AI applications using **RAG, LLMs, APIs, Django & PostgreSQL**
+- ⚡ Passionate about solving real-world problems through technology
+- 🚀 Aspiring AI Engineer & Entrepreneur
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Featured Projects
 
-### 🧠 AI / ML
+### 🧠 TutorTalk
+**Multi-Notebook AI Study Assistant inspired by Google NotebookLM**
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge\&logo=python)
-![Ollama](https://img.shields.io/badge/Ollama-111?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-111?style=for-the-badge)
+- RAG-powered AI Tutor
+- PDF Knowledge Retrieval
+- Flashcard & Quiz Generation
+- Gemini API Integration
+- Django + PostgreSQL
 
-### ⚙️ Backend & Tools
+### 🗄️ AskDB
+**Natural Language to SQL Database Assistant**
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github)
+- English-to-SQL Query Generation
+- AI-Powered Database Analytics
+- Intelligent Data Retrieval
+- LLM + Database Integration
 
-### 🌐 Basics
+### 💼 NextHire AI
+**AI-Powered Career Enhancement Platform**
 
-![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge\&logo=css3)
+- ATS Resume Analysis
+- AI Career Roadmaps
+- Voice Mock Interviews
+- Candidate Matching System
+
+### 💰 SpendWise AI
+**AI-Powered Personal Finance Platform**
+
+- Expense Tracking & Analytics
+- Spending Pattern Analysis
+- Financial Insights
+- Smart Budget Monitoring
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tech Stack
 
-### 🧠 AI Event Assistant
+### AI / ML
 
-> Context-aware AI system that sends personalized reminders and gift suggestions
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" />
+</p>
 
-**💡 Key Features:**
+### Backend
 
-* 🤖 LLM-powered responses using Ollama
-* 🧠 RAG-based memory (ChromaDB)
-* 📩 Telegram bot automation
-* ⏰ Daily scheduled execution
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge" />
+</p>
 
----
+### Frontend
 
-## 🧠 System Architecture
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-```id="arch1"
-User Data (CSV)
-      ↓
-RAG Memory (ChromaDB)
-      ↓
-LLM (Ollama)
-      ↓
-Response Generation
-      ↓
-Telegram Notification
-```
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhil143&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhil143&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adhil143&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adhil143&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-* 🧠 Advanced LLM Applications
-* ⚙️ Backend System Design
-* 🔍 Scalable AI Architectures
-
----
-
-## 🎯 Goals
-
-* 💼 AI Engineer / Software Developer role
-* 🚀 Build impactful AI products
-* 🌍 Solve real-world problems using technology
+- Agentic AI Systems
+- Advanced RAG Architectures
+- System Design
+- AI Product Engineering
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/adhil11
-* Email: [adhilshroff@gmail.com](mailto:adhilshroff@gmail.com)
+- 💼 LinkedIn: linkedin.com/in/adhil11
+- 📧 Email: adhilshroff@gmail.com
 
 ---
 
-## 🧠 Developer Philosophy
-
-> "Build first. Optimize later. Scale what works."
-
----
-
-⭐ *Check out my projects — they reflect how I think and build.*
+⭐ **Explore my repositories to see how I build AI-powered solutions for real-world problems.**
